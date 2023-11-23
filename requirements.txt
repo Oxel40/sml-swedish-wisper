@@ -1,0 +1,6 @@
+datasets>=2.6.1
+librosa
+evaluate>=0.3
+jiwer
+gradio
+transformers[torch]
